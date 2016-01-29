@@ -558,10 +558,9 @@ int drawable apptheme_btn_default_holo_light 0x7f020048
 int drawable apptheme_btn_default_normal_holo_light 0x7f020049
 int drawable apptheme_btn_default_pressed_holo_light 0x7f02004a
 int drawable background 0x7f02004b
-int drawable background1 0x7f02004c
-int drawable design_fab_background 0x7f02004d
-int drawable design_snackbar_background 0x7f02004e
-int drawable notification_template_icon_bg 0x7f02004f
+int drawable design_fab_background 0x7f02004c
+int drawable design_snackbar_background 0x7f02004d
+int drawable notification_template_icon_bg 0x7f02004e
 int id action0 0x7f0d0077
 int id action_bar 0x7f0d005a
 int id action_bar_activity_content 0x7f0d0000

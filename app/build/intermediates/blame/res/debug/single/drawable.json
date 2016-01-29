@@ -76,10 +76,6 @@
         "source": "E:\\AndroidNanodegree\\Projects\\MyAppPortfolio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
     },
     {
-        "merged": "E:\\AndroidNanodegree\\Projects\\MyAppPortfolio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background1.jpg",
-        "source": "E:\\AndroidNanodegree\\Projects\\MyAppPortfolio\\app\\src\\main\\res\\drawable\\background1.jpg"
-    },
-    {
         "merged": "E:\\AndroidNanodegree\\Projects\\MyAppPortfolio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
         "source": "E:\\AndroidNanodegree\\Projects\\MyAppPortfolio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },

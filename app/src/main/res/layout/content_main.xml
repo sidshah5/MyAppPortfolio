@@ -12,7 +12,7 @@
     tools:context="in.siddharthshah.myappportfolio.MainActivity"
     tools:showIn="@layout/activity_main"
     android:orientation="vertical"
-    android:background="@drawable/background1"
+    android:background="@drawable/background"
     android:gravity="center">
 
     <TextView
